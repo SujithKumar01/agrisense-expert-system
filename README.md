@@ -38,14 +38,15 @@ agrisense-expert-system/
 ```bash
 git clone https://github.com/<your-username>/agrisense-expert-system.git
 cd agrisense-expert-system
-
+```
 
 ### ▶️ Running the App Locally
 
 To launch the Streamlit app:
 
+```bash
 streamlit run agri_streamlit.py
-
+```
 
 This will open the web interface in your browser.
 
