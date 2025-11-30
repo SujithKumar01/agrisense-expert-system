@@ -33,14 +33,14 @@ agrisense-expert-system/
 
 ## ⚙️ Installation
 
-Clone the repository:
+## Clone the repository:
 
 ```bash
 git clone https://github.com/<your-username>/agrisense-expert-system.git
 cd agrisense-expert-system
 
 
-▶️ Running the App Locally
+### ▶️ Running the App Locally
 
 To launch the Streamlit app:
 
